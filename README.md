@@ -5,4 +5,4 @@ This project utilizes Dask to load and process a sizeable international trade da
 
 Using the country shapefile, the project calculates the distance in kilometers between the centroid of Brazil and all the other centroids. It then evaluates the correlation between exports and distance for both value and quantity. The primary objective of this exercise is to apply the gravity equation relationship to the international trade setting and see how it fits. 
 
-Finally, some linear regressions are performed on the trade flow data. 
+Finally, linear regressions are performed on the trade flow data. 
